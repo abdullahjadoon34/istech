@@ -2,6 +2,7 @@
 This is a web app developed with react js and node js
 It also contain contact form and email module   
 # How to run
+clone the project
 # download the dependencies
 npm i
 # frontend
