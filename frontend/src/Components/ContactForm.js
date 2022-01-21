@@ -19,7 +19,7 @@ const ContactForm = () => {
   const sendEmail = event => {
     event.preventDefault();
     axios
-      .post('http://localhost:3500/send', { ...state })
+      .post('https://istech.herokuapp.com/', { ...state })  //changed from http://localhost:8080
       .then(response => {
         setResult(response.data);
         setState({

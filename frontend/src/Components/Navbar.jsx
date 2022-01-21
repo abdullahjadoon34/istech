@@ -30,7 +30,7 @@ export default function Navbar() {
 window.addEventListener('scroll',changeBackgrond);
 
   return (
-    <nav className={nav ? 'nav active' : 'nav'}>
+    
     <MDBNavbar expand='lg' light bgColor='light'>
     
           <MDBContainer fluid>
@@ -80,7 +80,7 @@ window.addEventListener('scroll',changeBackgrond);
           </MDBContainer>
           
             </MDBNavbar>
-    </nav>
+    
     
   );
 }

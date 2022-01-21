@@ -55,9 +55,9 @@ class App extends Component {
   
   return (
     <div className="App">
-      <Header>
+      <Header/>
     
-    </Header>
+    
       <Feature/>
       <About image={aboutimage} title='We Develop Smart Software Solutions' />
       <Presentation />
