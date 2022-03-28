@@ -11,7 +11,7 @@ function Feature() {
             <FeatureBox image={featureimage} title='Design' para='Compatible Design'/>
             <FeatureBox image={featureimage1} title='Development' para='Rapid Development'/>
             <FeatureBox image={featureimage3} title='Marketing Strategy' para='Adding Customer Value'/>
-            <FeatureBox image={featureimage2} title='Customer Satisfaction' para='99.97% Customer Satisfacion'/>
+            <FeatureBox image={featureimage2} title='Customer Satisfaction' para='99.97% Customer Satisfaction'/>
             
             </div>
             

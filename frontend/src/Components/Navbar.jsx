@@ -33,7 +33,7 @@ window.addEventListener('scroll',changeBackgrond);
     
     <MDBNavbar expand='lg' light bgColor='light'>
     
-          <MDBContainer fluid>
+          <MDBContainer  fluid>
           <a href='#'className='logo'>
         <img src={logo} alt=''/>
             </a>

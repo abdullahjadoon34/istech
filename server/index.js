@@ -81,7 +81,7 @@ app.post('/', (req, res) => {
         console.log('Mail API called')
         res.send({
           success: true,
-          message: 'Thanks for contacting us.your message have been received'
+          message: 'Thank for contacting us.your message have been received'
           
         });
       }
